@@ -1,0 +1,6 @@
+__pycache__
+.env
+packages/*
+!packages/.keep
+
+.DS_Store
